@@ -7,7 +7,7 @@ Sample solution for the [weather-api](https://roadmap.sh/projects/weather-api-wr
 Clone the repository and run the following command:
 
 ```bash
-git clone https://github.com/eedu7/weather-api.git
-cd weather-api
-python main.py
+$ git clone https://github.com/eedu7/weather-api.git
+$ cd weather-api
+$ python main.py
 ```
